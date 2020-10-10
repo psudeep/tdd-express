@@ -29,3 +29,4 @@
 - `nvm use` // check the version in `.nvmrc` file
 - `yarn run dev`
 - `yarn run test`
+- `yarn run build`
