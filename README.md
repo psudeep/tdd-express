@@ -29,5 +29,7 @@
 - `nvm use` // check the version in `.nvmrc` file
 - `yarn run dev`
 - `yarn run test`
-- `yarn run build`
-- `yarn run serve`
+
+## Running Project in Prod
+ 1. `yarn run build`
+ 2. `yarn run serve`
