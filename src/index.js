@@ -21,7 +21,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 //sets the limit of json bodies in the req body.
 app.use(bodyParser.json());
-app.use('/api/v1/',movieRouter);
+app.use('/api/v1/', movieRouter);
 
 const listen =app.listen(config.get('port'),()=>{
     debug(`server is running on port ${config.get('port')} and in ${config.get('name')} mode`);
