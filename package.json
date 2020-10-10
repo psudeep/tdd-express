@@ -13,6 +13,10 @@
   "description": "Test Driven Development project sample",
   "main": "index.js",
   "author": "prashantsudeep",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:psudeep/tdd-express.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
