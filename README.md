@@ -13,3 +13,9 @@
 * `mkdir src`
 * `cd src` 
 * `touch index.js &`
+
+### how to run this project
+
+- `nvm use` // check the version in `.nvmrc` file
+- `yarn run dev`
+- `yarn run test`
